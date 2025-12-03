@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alaa+Kerkeni!;" />
+    <img src="https://camo.githubusercontent.com/aab9e215139e207eacb4cbd7eede3b08b986b29f8d51bed7adb28186fecbf19c/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d32322670617573653d3130303026636f6c6f723d3030464637462663656e7465723d74727565267643656e7465723d747275652677696474683d373030266c696e65733d46756c6c737461636b2b4465762b2537432b41492b2532422b58522b2532422b33442b5765622b417263686974656374">
 </h1>
 
 <h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
