@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ⚡  fact **World of Warcraft is the best Game**
 
-📫 How to reach me **alaakerkni@gmail.com*
+📫 How to reach me **alaakerkni@gmail.com**
  </div>
  
 <div align="center"> 
